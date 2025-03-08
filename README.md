@@ -1,5 +1,6 @@
 # In This Repo You Can Find Some Python Projects Made By Me 🐍 🔥
 🚀 How to Run the Project in Visual Studio Code? 
+
 🛠 Requirements 
 Python (Recommended version: 3.8+) 
 VS Code (with the Python extension: ms-python.python) 
